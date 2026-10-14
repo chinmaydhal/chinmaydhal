@@ -4,7 +4,6 @@
 * ⚡ Delivered **20+ production Power BI dashboards** and optimized data models by up to **90%** across logistics, healthcare, HR, and business operations
 * 📫 LinkedIn: chinmaydhal
 * ### 🛠️ Tech Stack & Core Skills
-  | Category | Tools & Technologies |
 * | BI & Analytics | Power BI, DAX, Data Modeling, Data Storytelling, MS-Excel |
 * | Data Engineering & Cloud | Microsoft Fabric, Databricks, SQL, Python, AWS, ETL & API Pipelines |
 * | Version Control & Workflow | Git, Business Requirements Analysis, KPI Design |
